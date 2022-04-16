@@ -1,8 +1,8 @@
 # Travel-Easy-Project1
 ## Link's and Demo
 
-* ['TravelEasy - Github'](https://github.com/djpdim/TravelEasy-Project1)
-* ['TravelEasy - Github IO'](https://djpdim.github.io/TravelEasy-Project1/)
+* ['TravelEasy - Github'](https://github.com/djpdim/TravelEasyProject1)
+* ['TravelEasy - Github IO'](https://djpdim.github.io/TravelEasyProject1/)
 * ['TravelEasy - Demo'](https://drive.google.com/file/d/1SJOld-dG0Uu8Wl3zUTRKrSY6BYI4vIMa/view)
 
 ![TravelEasy Demo](/assets/demo/Travel%20Easy.gif)
