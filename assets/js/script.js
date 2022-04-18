@@ -201,10 +201,10 @@ var getHotels = function(searchInput) {
         var hotelName = document.createElement('div')
         hotelName.classList.add("title")
         hotelName.textContent = response.suggestions[1].entities[i].name;
-        console.log(hotelName);
+        
 
         hotelId =  response.suggestions[1].entities[i].destinationId;
-        console.log(hotelId);
+        
 
         // Appending the cards and elements into the hotel card
         hotelbody.append(hotelName);
